@@ -1,5 +1,6 @@
 SET SERVEROUTPUT ON
 
 SELECT *
-FROM customers;
+FROM customers
+where customer# = 1001;
 /
