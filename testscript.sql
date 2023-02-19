@@ -1,0 +1,5 @@
+SET SERVEROUTPUT ON
+
+SELECT *
+FROM customers;
+/
